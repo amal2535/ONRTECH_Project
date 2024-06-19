@@ -1,46 +1,46 @@
-title,neuf_price,occasion_price
-Huawei Mate 20 128 Go Noir,N/A,N/A
-Samsung Galaxy A55 5G 256 Go Bleu clair,N/A,N/A
-ZTE lame A31 plus 2 + 32 Go DS 4G bleu OEM,N/A,N/A
-Oppo F11 6/128 Go Double SIM Noir,N/A,N/A
-Apple iPhone 15 128 Go Noir,699 €,649 €
-Apple iPhone 15 Pro Max 256 Go Titane naturel,"1 159,99 €",1 000 €
-Apple iPhone 15 128 Go Bleu,699 €,649 €
-Apple iPhone 15 128 Go Rose,699 €,700 €
-Samsung Galaxy S21 FE 5G 128 Go Mauve,N/A,N/A
-Huawei P30 lite 128 Go Noir minuit,N/A,N/A
-Apple iPhone 15 Pro Max 256 Go Titane bleu,"1 159,99 €",1 049 €
-Apple iPhone 13 Noir minuit 128 Go,"537,75 €",397 €
-Samsung Galaxy S23 128 Go Noir fantôme,"408,56 €","393,56 €"
-Samsung Galaxy S24 Ultra 256 Go Noir titane,"899,99 €",699 €
-Google Pixel 7 128 Go Noir Obsidien,"293,93 €","269,90 €"
-Apple iPhone 13 Blanc Lumière stellaire 128 Go,"576,59 €",397 €
-Apple iPhone 15 Pro 256 Go Titane naturel,"1 039,99 €",929 €
-Google Pixel 8 Pro 128 Go Obsidien,"678,99 €","745,74 €"
-Apple iPhone 13 Rose 128 Go,"557,32 €","408,65 €"
-Apple iPhone 14 Bleu 128 Go,"654,90 €",510 €
-Samsung Galaxy S23 Plus 256 Go Noir fantôme,"508,21 €","519,85 €"
-Apple iPhone 14 Mauve 128 Go,"648,99 €","510,79 €"
-Apple iPhone 13 Bleu 128 Go,"557,32 €",408 €
-Google Pixel 8 128 Go Obsidien,"509,98 €",520 €
-Apple iPhone 12 Noir 128 Go,545 €,"279,89 €"
-Apple iPhone 15 Pro 128 Go Titane naturel,"929,89 €","968,36 €"
-Apple iPhone 14 Lumiere Stellaire 128 Go,"648,99 €","519,87 €"
-Apple iPhone 14 Noir minuit 128 Go,"648,99 €","509,99 €"
-Samsung Galaxy S22 Ultra 5G 128 Go Noir fantôme,"428,42 €",380 €
-Samsung Galaxy S24 Ultra 256 Go Violet titane,"939,99 €",880 €
-Samsung Galaxy S20 FE Fan Edition 5G 128 Go Bleu,160 €,140 €
-Samsung Galaxy S22 128 Go Noir fantôme,"291,22 €",290 €
-Samsung Galaxy S21 5G 128 Go Gris phantôme,"219,91 €",140 €
-Google Pixel 7a Noir charbon 128 Go,"289,96 €",275 €
-Google Pixel 7 Pro 128 Go Noir Obsidien,"385,32 €",404 €
-Google Pixel 6 Pro Noir 128 Go,"198,56 €","278,67 €"
-Samsung Galaxy S21 Ultra 5G 128 Go Noir fantôme,"290,74 €","353,99 €"
-Samsung Galaxy Z Flip5 256 Go Graphite,"629,18 €",650 €
-Apple iPhone 13 Noir Minuit 256 Go,"677,70 €",415 €
-Apple iPhone 14 Plus Noir minuit 128 Go,693 €,"549,79 €"
-Samsung Galaxy S22+ 128 Go Noir fantôme,"318,99 €",285 €
-Apple iPhone 14 Plus Mauve 128 Go,713 €,"557,79 €"
-Samsung Galaxy S21 FE 5G 128 Go Graphite,"220,51 €",175 €
-Xiaomi Redmi Note 13 Pro 5G 256 Go Noir minuit,"268,85 €","269,22 €"
-Apple iPhone 12 Bleu 128 Go,"612,48 €","289,90 €"
+title,neuf_price,occasion_price,description
+Samsung Galaxy A55 5G 256 Go Bleu clair,N/A,N/A,N/A
+Huawei Mate 20 128 Go Noir,N/A,N/A,N/A
+Huawei P30 lite 128 Go Noir minuit,N/A,N/A,N/A
+ZTE lame A31 plus 2 + 32 Go DS 4G bleu OEM,N/A,N/A,N/A
+Apple iPhone 15 128 Go Noir,699 €,649 €,"Ecran 6.1"" Réseau 5G iOS 17 A16 Bionic Double SIM Couleur Noir"
+Apple iPhone 15 Pro Max 256 Go Titane naturel,"1 159,99 €",1 000 €,"Ecran 6.7"" Réseau 5G iOS 17 A17 Pro Double SIM Couleur Titane Naturel"
+Apple iPhone 15 128 Go Bleu,699 €,"698,90 €","Ecran 6.1"" Réseau 5G iOS 17 A16 Bionic Double SIM Couleur Bleu"
+Apple iPhone 15 128 Go Rose,699 €,700 €,"Ecran 6.1"" Réseau 5G iOS 17 A16 Bionic Double SIM Couleur Rose"
+Xiaomi Redmi Note 13 Pro+ 5G Dual-SIM 512 Go Violet,N/A,N/A,N/A
+Oppo F11 6/128 Go Double SIM Noir,N/A,N/A,N/A
+Samsung Galaxy S21 FE 5G 128 Go Mauve,N/A,N/A,N/A
+Apple iPhone 15 Pro Max 256 Go Titane bleu,"1 159,99 €",1 049 €,"Ecran 6.7"" Réseau 5G iOS 17 A17 Pro Double SIM Couleur Bleu titane"
+Apple iPhone 13 Noir minuit 128 Go,"537,75 €",397 €,"Ecran 6.1"" Réseau 5G iOS 15 A15 Bionic Double SIM Couleur Noir minuit"
+Samsung Galaxy S23 128 Go Noir fantôme,"408,56 €","393,56 €","Ecran 6.1"" Réseau 5G Mémoire 128 Go / RAM 8 Go Android Snapdragon 8 Gen 2 Double SIM Couleur Noir fantôme"
+Samsung Galaxy S24 Ultra 256 Go Noir titane,"899,99 €",699 €,"Ecran 6.8"" Réseau 5G Mémoire 256 Go / RAM 12 Go Android Snapdragon 8 Gen 3 for Galaxy Double SIM Couleur Noir titane"
+Google Pixel 7 128 Go Noir Obsidien,"293,93 €","269,90 €","Ecran 6.3"" Réseau 5G Mémoire 128 Go / RAM 8 Go Android 13 Tensor G2 Double SIM Couleur Obsidien"
+Apple iPhone 13 Blanc Lumière stellaire 128 Go,"576,59 €",397 €,"Ecran 6.1"" Réseau 5G iOS 15 A15 Bionic Double SIM Couleur Lumiere stellaire"
+Apple iPhone 15 Pro 256 Go Titane naturel,"1 039,99 €",929 €,"Ecran 6.1"" Réseau 5G iOS 17 A17 Pro Double SIM Couleur Titane Naturel"
+Google Pixel 8 Pro 128 Go Obsidien,"678,99 €","745,74 €","Ecran 6.7"" Réseau 5G Mémoire 128 Go / RAM 12 Go Android 14 Tensor G3 Double SIM Couleur Obsidien"
+Apple iPhone 13 Rose 128 Go,"557,32 €","408,64 €","Ecran 6.1"" Réseau 5G iOS 15 A15 Bionic Double SIM Couleur Rose"
+Apple iPhone 14 Bleu 128 Go,"654,90 €",510 €,"Ecran 6.1"" Réseau 5G iOS 16 A15 Bionic Double SIM Couleur Bleu"
+Samsung Galaxy S23 Plus 256 Go Noir fantôme,"508,21 €","519,85 €","Ecran 6.6"" Réseau 5G Mémoire 256 Go / RAM 8 Go Android Snapdragon 8 Gen 2 Double SIM Couleur Noir fantôme"
+Apple iPhone 14 Mauve 128 Go,"648,99 €","510,79 €","Ecran 6.1"" Réseau 5G iOS 16 A15 Bionic Double SIM Couleur Violet"
+Apple iPhone 13 Bleu 128 Go,"557,32 €",408 €,"Ecran 6.1"" Réseau 5G iOS 15 A15 Bionic Double SIM Couleur Bleu"
+Google Pixel 8 128 Go Obsidien,"509,98 €",520 €,"Ecran 6.2"" Réseau 5G Mémoire 128 Go / RAM 8 Go Android 14 Tensor G3 Double SIM Couleur Obsidien"
+Apple iPhone 12 Noir 128 Go,545 €,"279,89 €","Ecran 6.1"" Réseau 5G iOS 14 A14 Bionic Double SIM Couleur Noir"
+Apple iPhone 15 Pro 128 Go Titane naturel,"929,89 €","968,36 €","Ecran 6.1"" Réseau 5G iOS 17 A17 Pro Double SIM Couleur Titane Naturel"
+Apple iPhone 14 Lumiere Stellaire 128 Go,"648,99 €","519,87 €","Ecran 6.1"" Réseau 5G iOS 16 A15 Bionic Double SIM Couleur Lumiere stellaire"
+Apple iPhone 14 Noir minuit 128 Go,"648,99 €","509,99 €","Ecran 6.1"" Réseau 5G iOS 16 A15 Bionic Double SIM Couleur Noir minuit"
+Samsung Galaxy S22 Ultra 5G 128 Go Noir fantôme,"428,42 €",380 €,"Ecran 6.8"" Réseau 5G Mémoire 128 Go / RAM 8 Go Android Exynos 2200 Double SIM Couleur Noir fantôme"
+Samsung Galaxy S24 Ultra 256 Go Violet titane,"939,99 €",880 €,"Ecran 6.8"" Réseau 5G Mémoire 256 Go / RAM 12 Go Android Snapdragon 8 Gen 3 for Galaxy Double SIM Couleur Violet titane"
+Samsung Galaxy S20 FE Fan Edition 5G 128 Go Bleu,160 €,140 €,"Ecran 6.5"" Réseau 5G Mémoire 128 Go / RAM 6 Go Android Snapdragon 865 5G Double SIM Couleur Nuage marine"
+Samsung Galaxy S22 128 Go Noir fantôme,"291,22 €",290 €,"Ecran 6.1"" Réseau 5G Mémoire 128 Go / RAM 8 Go Android Exynos 2200 Double SIM Couleur Noir fantôme"
+Samsung Galaxy S21 5G 128 Go Gris phantôme,"219,91 €",140 €,"Ecran 6.2"" Réseau 5G Mémoire 128 Go / RAM 8 Go Android Exynos 2100 Double SIM Couleur Gris phantôme"
+Google Pixel 7a Noir charbon 128 Go,"289,96 €",275 €,"Ecran 6.1"" Réseau 5G Mémoire 128 Go / RAM 8 Go Android 13 Tensor G2 Double SIM Couleur Charbon"
+Google Pixel 7 Pro 128 Go Noir Obsidien,"385,32 €",404 €,"Ecran 6.7"" Réseau 5G Mémoire 128 Go / RAM 12 Go Android 13 Tensor G2 Double SIM Couleur Obsidien"
+Google Pixel 6 Pro Noir 128 Go,"198,56 €","278,67 €","Ecran 6.7"" Réseau 5G Mémoire 128 Go / RAM 12 Go Android 12 Tensor Double SIM Couleur Noir de charbon"
+Samsung Galaxy S21 Ultra 5G 128 Go Noir fantôme,"290,74 €","353,99 €","Ecran 6.8"" Réseau 5G Mémoire 128 Go / RAM 12 Go Android Exynos 2100 Double SIM Couleur Noir fantôme"
+Samsung Galaxy Z Flip5 256 Go Graphite,"629,18 €",650 €,"Ecran 6.7"" Réseau 5G Mémoire 256 Go / RAM 8 Go Android Snapdragon 8 Gen 2 Double SIM Couleur Graphite"
+Apple iPhone 13 Noir Minuit 256 Go,"677,70 €",415 €,"Ecran 6.1"" Réseau 5G iOS 15 A15 Bionic Double SIM Couleur Noir minuit"
+Apple iPhone 14 Plus Noir minuit 128 Go,693 €,"549,79 €","Ecran 6.7"" Réseau 5G iOS 16 A15 Bionic Double SIM Couleur Noir minuit"
+Samsung Galaxy S22+ 128 Go Noir fantôme,"318,99 €",285 €,"Ecran 6.6"" Réseau 5G Mémoire 128 Go / RAM 8 Go Android Exynos 2200 Double SIM Couleur Noir fantôme"
+Apple iPhone 14 Plus Mauve 128 Go,713 €,"557,79 €","Ecran 6.7"" Réseau 5G iOS 16 A15 Bionic Double SIM Couleur Violet"
+Samsung Galaxy S21 FE 5G 128 Go Graphite,"220,51 €",175 €,"Ecran 6.4"" Réseau 5G Mémoire 128 Go / RAM 6 Go Android Snapdragon 888 Double SIM Couleur Graphite"
+Xiaomi Redmi Note 13 Pro 5G 256 Go Noir minuit,"268,85 €","269,22 €","Ecran 6.67"" Réseau 5G Mémoire 256 Go / RAM 8 Go Android 13 Snapdragon 7s Gen 2 Double SIM Couleur Noir minuit"
